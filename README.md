@@ -1,5 +1,5 @@
 ###
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&width=435&lines=Hi+there%2C+I'm+Nicolas+Anelka+Casas+Parra+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&width=435&lines=Hi+there%2C+I'm+Nicolas+Anelka+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ### 🚀 Full-Stack Developer | Microservices & Modern Web Architectures
 
